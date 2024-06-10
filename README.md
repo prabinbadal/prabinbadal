@@ -5,8 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudip-khanal-59b815270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabinbadal-59b815270" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudip0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabin0007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabin-badal-2a81542a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKgMdd1CmSzSC0jC9gq%2FH2A%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabinbadal-59b815270" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
